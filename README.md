@@ -3,3 +3,5 @@ SearXNG is a free internet metasearch engine which aggregates results from vario
 
 # Got suggestions from - https://github.com/SynAckTime/SynAck-Time-YouTube/tree/main/Youtube/searxng
 # And Claude AI
+# /usr/local/searxng/searx/static/themes/simple/img
+# Footer Edit : vi /usr/local/searxng/searx/templates/simple/base.html
